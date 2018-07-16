@@ -7,11 +7,8 @@ import java.util.ArrayList;
 public class App 
 {
     public static void main( String[] args ) throws InterruptedException, IOException{
-    	
-        String Email = "ngutierrezg96@gmail.com";
-        String Password = "veracruz2016";
-        String EmailFB = "ngg96@hotmail.com";
-        String PasswordFB = "veracruz2016";
+    
+     
         String dataPath = "C:\\Users\\nicolas.a.gutierrez\\Desktop\\Folders\\Empleados.xlsx";
         String Asunto = "";
         String Informacion = "";
